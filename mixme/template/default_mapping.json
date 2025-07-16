@@ -1,0 +1,22 @@
+{
+  "hip": "mPelvis",
+  "spine": "mSpine1",
+  "spine1": "mSpine2",
+  "spine2": "mSpine3",
+  "neck": "mNeck",
+  "head": "mHead",
+  "leftShoulder": "mShoulderLeft",
+  "leftArm": "mUpperArmLeft",
+  "leftForeArm": "mLowerArmLeft",
+  "leftHand": "mHandLeft",
+  "rightShoulder": "mShoulderRight",
+  "rightArm": "mUpperArmRight",
+  "rightForeArm": "mLowerArmRight",
+  "rightHand": "mHandRight",
+  "leftUpLeg": "mThighLeft",
+  "leftLeg": "mShinLeft",
+  "leftFoot": "mFootLeft",
+  "rightUpLeg": "mThighRight",
+  "rightLeg": "mShinRight",
+  "rightFoot": "mFootRight"
+}
