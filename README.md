@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-**MixMe** ist ein Blender-Add-on zur Konvertierung und Retargeting von Rigs und Animationen. Es unterstützt:
+**MixMe** ist ein Blender4-Add-on zur Konvertierung und Retargeting von Rigs und Animationen. Es unterstützt:
 
 - ✅ Bone-Mapping (Mixamo → OpenSim oder eigene Zuordnung)
 - ✅ Rig-Erstellung aus XML
